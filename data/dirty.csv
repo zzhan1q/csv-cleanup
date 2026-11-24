@@ -1,0 +1,15 @@
+order_id,date,product,amount_usd
+ a-104 ,2026/04/02, Desk lamp ,25
+A-104,02.04.2026,Desk lamp,25.00
+A-105,2026-04-03,Notebook,8.50
+A-106,,Cable clip,4.90
+A-107,2026-02-30,Desk mat,19
+ a-108,18.04.2026,Desk mat,19.5
+A-105,2026-04-03,Notebook,11
+A-109,2026-04-19,Monitor riser,NaN
+A-110,2026-04-22,"Tray, small",12.40
+A-111,2026-04-25,Folder,-5
+A-112,2026/04/27,Pencil case,7.00
+A-113,2026-04-28,,5.00
+A-114,2026-04-29,Pen,1.234
+A-115,2026-04-30,Organizer,32

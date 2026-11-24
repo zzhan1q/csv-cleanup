@@ -1,0 +1,13 @@
+record,order_id,action,details
+1,A-104,normalized,"order_id, date, product, amount_usd"
+2,A-104,duplicate,kept first valid record
+4,A-106,rejected,required field is blank
+5,A-107,rejected,invalid date or unsupported date format
+6,A-108,normalized,"order_id, date, amount_usd"
+7,A-105,conflict,kept first valid record
+8,A-109,rejected,amount must be 0–1000000 with at most two decimal places
+10,A-111,rejected,amount must be 0–1000000 with at most two decimal places
+11,A-112,normalized,date
+12,A-113,rejected,required field is blank
+13,A-114,rejected,amount must be 0–1000000 with at most two decimal places
+14,A-115,normalized,amount_usd
